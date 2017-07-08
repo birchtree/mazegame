@@ -1,0 +1,38 @@
+
+      noStroke();
+
+      //Right Wrap
+      fill(#728490);
+      triangle(30, 20, 30, 5, 45, 20);
+      ellipse(43, 17, 6, 6);
+      ellipse(38, 12, 8, 8);
+      ellipse(34, 6, 7, 7);
+      fill(#8797A1);
+      ellipse(33, 9, 5, 10);
+      ellipse(35, 13, 12, 5);
+      fill(#A8BBC7);
+      ellipse(32, 10, 3, 8);
+
+      //Center Ball
+      fill(#728490);
+      ellipse(25, 25, 20, 20);
+      fill(#8797A1);
+      ellipse(24, 24, 18, 18);
+      fill(#99A6AF);
+      ellipse(23, 23, 15, 15);
+      fill(#BBC6CD);
+      ellipse(20, 20, 5, 5);
+      ellipse(23, 23, 2, 2);
+      
+      //Left Wrap
+      fill(#728490);
+      triangle(20, 30, 20, 45, 5, 30);
+      ellipse(17, 43, 6, 6);
+      ellipse(12, 37, 8, 8);
+      ellipse(7, 33, 5, 5);
+      fill(#8797A1);
+      ellipse(18, 37, 5, 12);
+      ellipse(12, 34, 9, 4);
+      fill(#A8BBC7);
+      ellipse(18, 38, 3, 8);
+      ellipse(13, 34, 6, 2);

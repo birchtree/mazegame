@@ -1,0 +1,48 @@
+//Legs
+      fill(#BFA430);
+      ellipse(41, 27, 10, 4);
+      ellipse(41, 23, 10, 4);
+      
+      //Body
+      fill(#FFDB40);
+      ellipse(35, 25, 15, 15);
+      
+      //Arms
+      fill(#FFF273);
+      ellipse(40, 20, 10, 4);
+      ellipse(40, 30, 10, 4);
+      
+      //Head
+      noStroke();
+      fill(#FFF273);
+      ellipse(30, 25, 20, 20);
+      fill(#000000);
+      triangle(28, 20, 28, 15, 20, 15);
+      triangle(28, 30, 28, 35, 20, 35);
+      fill(#BFA430);
+      triangle(28, 19, 28, 16, 23, 16);
+      triangle(28, 31, 28, 34, 23, 34);
+      
+      //Tail
+      fill(#FFF273);
+      rect(5, 23, 16, 3);
+      fill(#BFA430);
+      ellipse(4, 23, 7, 7);
+      fill(#A68700);
+      ellipse(4, 23, 3, 3);
+    
+      //Details  
+      fill(#FFFFFF);
+      ellipse(33, 20, 4, 4);
+      ellipse(33, 30, 4, 4);
+      fill(#000000);
+      rect(31, 20, 4, 1);
+      rect(31, 30, 4, 1);
+      fill(#FFDB40);
+      strokeWeight(0);
+      stroke(#A68700);
+      ellipse(30, 25, 6, 3);
+      fill(#A68700);
+      rect(29, 23, 1, 4);
+      rect(31, 23, 1, 4);
+   
